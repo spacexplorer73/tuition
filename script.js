@@ -32,8 +32,8 @@ function hideMarquee() {
   }
     
   var y = document.getElementById("nav-links");
-  if (y.style.display === "none") {
-    y.style.display = "block";
+  if (y.style.display === "block") {
+    y.style.display = "none";
   } else {
     y.style.display = "none";
   }
