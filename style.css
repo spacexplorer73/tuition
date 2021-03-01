@@ -87,6 +87,10 @@ nav{
 	#ourresults img{
 		width: 80%;
 	}
+	
+	#ourteam li{
+		margin-right: 10px;
+	}
 
 	.nav-links{
 		position: absolute;
