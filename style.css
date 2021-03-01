@@ -71,6 +71,14 @@ nav{
 		margin: auto;
 		padding: auto;
 	}
+	
+	h2{
+		font-size: 75% !important;
+	}
+
+	p{
+		font-size: 75% !important;
+	}
 
 	.nav-links{
 		position: absolute;
