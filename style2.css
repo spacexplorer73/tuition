@@ -127,6 +127,16 @@ footer{
 	background-color: #b5edb8;
 }
 
+.imp_info{
+	text-transform: uppercase;
+	color: red;
+}
+
+.marks{
+	font-size: 150%;
+	color: black;
+}
+
 .info{
 	margin-top: 50px;
 	font-size: 150%;
