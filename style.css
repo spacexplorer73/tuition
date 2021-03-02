@@ -29,7 +29,7 @@ nav{
 .nav-links li{
 	list-style: none;
 	border: 1px solid #32CD32;
-	padding: 16px;
+	padding: 6px;
     	margin: 1px;
 	cursor: pointer;
 	transition-duration: 0.3s;
