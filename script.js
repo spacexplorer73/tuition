@@ -32,9 +32,9 @@ function hideMarquee() {
   }
     
   var y = document.getElementById("nav-links");
-  if (x.style.display === "block") {
-    y.style.display = "none";
+  if (x.style.display === "none") {
+    y.style.visibility = "visible";
   } else {
-    y.style.display = "block";
+    y.style.visibility = "hidden";
   }
 }
